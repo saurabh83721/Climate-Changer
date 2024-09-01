@@ -873,6 +873,7 @@ Rafa
  }
  g#biplane {
      /* animation: biplaneAnimation 12s infinite linear !important; */
+     opacity: 0;  
  }
  
  @keyframes biplaneAnimation {
